@@ -1,13 +1,3 @@
-body {
-  margin: 0;
-  padding: 0;
-  background-color: #ffffff;
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-  height: 100vh;
-}
-
 .logo {
   display: flex;
   flex-direction: column;
